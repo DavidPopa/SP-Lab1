@@ -1,2 +1,2 @@
 # SP-Lab1
-Va rog intrat pe master
+Va rog intrati pe master
