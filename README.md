@@ -1,2 +1,2 @@
 # SP-Lab1
-Va rog intrat pe celalat branch
+Va rog intrat pe master
